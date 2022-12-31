@@ -14,9 +14,9 @@
     "truffle": "5.0.31"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "4.6.0",
-    "webpack": "4.7.0",
-    "webpack-cli": "3.1.1",
+    "copy-webpack-plugin": "11.0.0",
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1",
     "webpack-dev-server": "3.1.4",
     "openzeppelin-solidity": "2.3.0",
     "ipfs-http-client": "32.0.1"
